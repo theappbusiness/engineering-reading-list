@@ -11,14 +11,14 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 ## iOS 🍏
 
 
-### Apps
+### Apps 📱
 
 [CocoaHub](https://apps.apple.com/us/app/cocoahub/id1467755462) – Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 
 [Unwrap](https://apps.apple.com/gb/app/unwrap/id1440611372) – Unwrap is an all-new app designed to make it easy and fun to learn Swift programming right on your iPhone. Created by Paul Hudson.
 
 
-### Blogs
+### Blogs 📝
 
 [Hacking with Swift](https://www.hackingwithswift.com) – A collection of Swift & iOS tutorials and articles by Paul Hudson.
 
@@ -39,14 +39,14 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 [Swiftjective-C](https://www.swiftjectivec.com) – A periodical on the art of modern iOS software engineering.
 
 
-### Newsletters
+### Newsletters 📨
 
 [iOS Dev Weekly](https://iosdevweekly.com) – A hand-picked round-up of the best iOS development links every week. Curated by Dave Verwer and published every Friday. Free.
 
 [Swift Weekly Brief](https://swiftweekly.github.io) – A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org. Curated by Bas Broek. Started by Jesse Squires. Published for free every other Thursday.
 
 
-### Podcasts
+### Podcasts 🎧
 
 [Launched](https://podcasts.apple.com/gb/podcast/launched/id1491582246) – Host Charlie Chapman interviews app developers and other creators about their experiences releasing their creations out into the world.
 
@@ -65,7 +65,7 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 [How I Built This with Guy Raz](https://podcasts.apple.com/tt/podcast/how-i-built-this-with-guy-raz/id1150510297) – Recommended episodes for iOS: Headspace, Bumble, Instagram, Instacart, Lyft. Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. 
 
 
-### Tutorials
+### Tutorials 👩‍💻👨‍💻
 
 [RayWenderlich.com](https://www.raywenderlich.com/ios) – The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.
 
@@ -76,7 +76,7 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 [Sean Allen – iOS Development Videos](https://www.youtube.com/seanallen) – 3 videos per week about Swift and iOS Development from an iOS Engineer in Silicon Valley. Tutorials, VLOGs, Interview Questions, and LIVE on Sundays.
 
 
-### Twitter
+### Twitter 🐦
 
 [Paul Hudson](https://twitter.com/twostraws?s=20) – Creator of Hacking with Swift.
 
