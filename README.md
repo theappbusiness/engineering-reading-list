@@ -1,10 +1,10 @@
-# Kin+Carta Engineering Reading List
+# Kin + Carta Engineering Reading List
 
 ## About
 
-A collection of podcasts, publications, blogs and people worth following across the engineering CoPs (Community of Practise) at Kin+Carta.
+A collection of podcasts, publications, tutorials, blogs and industry leaders recommended by the [Kin + Carta Create](https://www.kinandcarta.com/en/services/create/) Engineering CoP (Community of Practice).
 
-## CoP Contents
+## Contents
 
 [iOS 🍏](#iOS-🍏)
 
