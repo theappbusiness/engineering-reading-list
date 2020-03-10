@@ -7,6 +7,7 @@ A collection of podcasts, publications, blogs and people worth following across 
 ## CoP Contents
 
 [iOS](#iOS)
+[Flutter](#Flutter)
 
 ## iOS
 
@@ -33,3 +34,24 @@ A collection of podcasts, publications, blogs and people worth following across 
 [CocoaHub](https://apps.apple.com/us/app/cocoahub/id1467755462) – Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 
 [Unwrap](https://apps.apple.com/gb/app/unwrap/id1440611372) – Unwrap is an all-new app designed to make it easy and fun to learn Swift programming right on your iPhone. Created by Paul Hudson.
+
+## Flutter
+
+### Podcasts
+
+[It's all widgets!](https://itsallwidgets.com/podcast) – Hillel Coren interviews
+members of the Flutter community and Flutter team
+
+### People
+
+[Codemagic's "Who to follow" list](https://blog.codemagic.io/top-flutter-developers-to-follow-on-twitter/)
+– A list of many important members of the Flutter community
+
+### Blogs
+
+[Flutter Community](https://medium.com/flutter-community) – A Medium community
+
+### Misc
+
+[Awesome Flutter](https://github.com/Solido/awesome-flutter) – A community
+maintained list of Flutter content (articles, blogs, open-source packages, ...)
