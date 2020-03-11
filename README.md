@@ -113,6 +113,9 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 [It's all widgets!](https://itsallwidgets.com/podcast) – Hillel Coren interviews
 members of the Flutter community and Flutter team
+[The Boring Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
+– A list of videos from the Flutter team which may include members from the
+community
 
 ### People
 
