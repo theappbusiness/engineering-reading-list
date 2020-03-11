@@ -105,8 +105,6 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 [Mattt](https://twitter.com/mattt) – Founder of [NSHipster](https://nshipster.com).
 
-[Unwrap](https://apps.apple.com/gb/app/unwrap/id1440611372) – Unwrap is an all-new app designed to make it easy and fun to learn Swift programming right on your iPhone. Created by Paul Hudson.
-
 ## Flutter
 
 ### Podcasts
