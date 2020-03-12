@@ -7,16 +7,15 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 ## Contents
 
 [iOS 🍏](#iOS-🍏)
+[Flutter](#Flutter)
 
 ## iOS 🍏
-
 
 ### Apps 📱
 
 [CocoaHub](https://apps.apple.com/us/app/cocoahub/id1467755462) – Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 
 [Unwrap](https://apps.apple.com/gb/app/unwrap/id1440611372) – Unwrap is an all-new app designed to make it easy and fun to learn Swift programming right on your iPhone. Created by Paul Hudson.
-
 
 ### Blogs 📝
 
@@ -38,13 +37,11 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 [Swiftjective-C](https://www.swiftjectivec.com) – A periodical on the art of modern iOS software engineering.
 
-
 ### Newsletters 📨
 
 [iOS Dev Weekly](https://iosdevweekly.com) – A hand-picked round-up of the best iOS development links every week. Curated by Dave Verwer and published every Friday. Free.
 
 [Swift Weekly Brief](https://swiftweekly.github.io) – A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org. Curated by Bas Broek. Started by Jesse Squires. Published for free every other Thursday.
-
 
 ### Podcasts 🎧
 
@@ -62,8 +59,7 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 [Swift over Coffee](https://podcasts.apple.com/gb/podcast/swift-over-coffee/id1435076502?mt=2) – Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Erica Sadun. Each episode has news, our picks of the week, plus an open ballot where you can share your views on important topics.
 
-[How I Built This with Guy Raz](https://podcasts.apple.com/tt/podcast/how-i-built-this-with-guy-raz/id1150510297) – Recommended episodes for iOS: Headspace, Bumble, Instagram, Instacart, Lyft. Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. 
-
+[How I Built This with Guy Raz](https://podcasts.apple.com/tt/podcast/how-i-built-this-with-guy-raz/id1150510297) – Recommended episodes for iOS: Headspace, Bumble, Instagram, Instacart, Lyft. Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built.
 
 ### Tutorials 👩‍💻👨‍💻
 
@@ -74,7 +70,6 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 [AppCoda](https://www.appcoda.com/) – AppCoda is one of the leading tutorial sites for app developers and anyone who want to learn iOS programming.
 
 [Sean Allen – iOS Development Videos](https://www.youtube.com/seanallen) – 3 videos per week about Swift and iOS Development from an iOS Engineer in Silicon Valley. Tutorials, VLOGs, Interview Questions, and LIVE on Sundays.
-
 
 ### Twitter 🐦
 
@@ -110,6 +105,26 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 [Mattt](https://twitter.com/mattt) – Founder of [NSHipster](https://nshipster.com).
 
+## Flutter
 
+### Podcasts
 
+[It's all widgets!](https://itsallwidgets.com/podcast) – Hillel Coren interviews
+members of the Flutter community and Flutter team
+[The Boring Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
+– A list of videos from the Flutter team which may include members from the
+community
 
+### People
+
+[Codemagic's "Who to follow" list](https://blog.codemagic.io/top-flutter-developers-to-follow-on-twitter/)
+– A list of many important members of the Flutter community
+
+### Blogs
+
+[Flutter Community](https://medium.com/flutter-community) – A Medium community
+
+### Misc
+
+[Awesome Flutter](https://github.com/Solido/awesome-flutter) – A community
+maintained list of Flutter content (articles, blogs, open-source packages, ...)
