@@ -6,8 +6,8 @@ A collection of podcasts, publications, tutorials, blogs and industry leaders re
 
 ## Contents
 
-[iOS 🍏](#iOS-🍏)
-[Flutter](#Flutter)
+* [iOS 🍏](#iOS-🍏)
+* [Flutter](#Flutter)
 
 ## iOS 🍏
 
